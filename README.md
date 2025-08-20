@@ -1,9 +1,12 @@
 *This is a template for you to use to minimally document your project. This README*
 *file will show up on the GitHub page when you open the repository. This file is*
 *written in [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).*
-*Delete everything in italics and replace it with your own information. Software goes in the*
-*`software` directory, hardware in `hardware` (like .stl files), and any supplementary documentation*
-*goes in `docs`*
+*Delete everything in italics and replace it with your own information. *
+
+*Inspect the subdirectories of this project for more info on what goes in them.*
+*Delete the `README.md` files in those folders when you add content to them.*
+
+*Any files that should not be committed should be added to the `.gitignore` file*
 
 # ECE 398 vip-(Project Name)
 
